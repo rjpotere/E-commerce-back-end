@@ -17,6 +17,12 @@
   ## **Description:** 
  The user can input, update and delete items to aid in the operational aspect of a their business. The user can add items which are persitent in mySQL and can be located using the GET operation. While this is a backend program, the user can use insomnia to locate each item by category, product and id. Each of these searches can be searched by a specific id to locate a single item. Once the user has found what they are looking for, they can successfully update or delete the item.  
 
+ ## **Video Links**
+  https://youtu.be/fX9V_4VdMwo
+  https://youtu.be/kUnU6-21hbI
+  https://youtu.be/rerZjxtXn28
+  https://youtu.be/ObNfjL7m3kA
+
   ## **Installation Instructions:**
  The user must run npm i, create a new database in mySQL workbench and seed their SQL table, if they have pre-existing data. The user must open the integrated terminal and run npm i. Once they have dpwnloaded the proper dependencies, the user then needs to create a schema in mySQL workbench and create the database. Upon creating the database, the user can create models which will be used to seed their database with information. 
 
